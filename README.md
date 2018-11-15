@@ -5,7 +5,7 @@ This is an implementation of the FrontEnd Web App of the Lynda.com's course **Bu
 * **Chapter I**: Create Your Spring Boot Project  (**BACKEND: SPRING**)
 * **Chapter II**: Build a Mobile Responsive UI  (**FRONTEND: ANGULAR**)
 * **Chapter III**: Create the Data Layer with Spring Data  (**BACKEND: SPRING**)
-* **Chapter IV**: Client-Side Functionality with Angular  (**FRONTEND: ANGULAR**)
+* **Chapter IV**: Client-Side Functionality with Angular  (**FRONTEND: ANGULAR - BACKEND: SPRING**)
 * **Chapter V**: Testing and Validation (**BACKEND: SPRING**)
 * **Conclusion**  (**NO COMMIT**)
 
