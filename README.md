@@ -6,7 +6,7 @@ This is an implementation of the FrontEnd Web App of the Lynda.com's course **Bu
 * **Chapter II**: Build a Mobile Responsive UI  (**FRONTEND: ANGULAR**)
 * **Chapter III**: Create the Data Layer with Spring Data  (**BACKEND: SPRING**)
 * **Chapter IV**: Client-Side Functionality with Angular  (**FRONTEND: ANGULAR**)
-* **Chapter V**: Testing and Validation (**NO COMMIT**)
+* **Chapter V**: Testing and Validation (**BACKEND: SPRING**)
 * **Conclusion**  (**NO COMMIT**)
 
 Please note that the project is composed of two modules:
